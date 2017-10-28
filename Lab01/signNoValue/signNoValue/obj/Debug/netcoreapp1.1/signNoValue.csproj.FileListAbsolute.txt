@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\bin\Debug\netcoreapp1.1\signNoValue.deps.json
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\bin\Debug\netcoreapp1.1\signNoValue.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\bin\Debug\netcoreapp1.1\signNoValue.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\bin\Debug\netcoreapp1.1\signNoValue.dll
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\bin\Debug\netcoreapp1.1\signNoValue.pdb
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\obj\Debug\netcoreapp1.1\signNoValue.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\obj\Debug\netcoreapp1.1\signNoValue.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\obj\Debug\netcoreapp1.1\signNoValue.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\obj\Debug\netcoreapp1.1\signNoValue.dll
+C:\Users\Khaled\source\CSharp-21\signNoValue\signNoValue\obj\Debug\netcoreapp1.1\signNoValue.pdb

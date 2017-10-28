@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\bin\Debug\netcoreapp1.1\numberToWord.deps.json
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\bin\Debug\netcoreapp1.1\numberToWord.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\bin\Debug\netcoreapp1.1\numberToWord.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\bin\Debug\netcoreapp1.1\numberToWord.dll
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\bin\Debug\netcoreapp1.1\numberToWord.pdb
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\obj\Debug\netcoreapp1.1\numberToWord.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\obj\Debug\netcoreapp1.1\numberToWord.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\obj\Debug\netcoreapp1.1\numberToWord.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\obj\Debug\netcoreapp1.1\numberToWord.dll
+C:\Users\Khaled\source\CSharp-21\numberToWord\numberToWord\obj\Debug\netcoreapp1.1\numberToWord.pdb

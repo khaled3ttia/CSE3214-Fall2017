@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\bin\Debug\netcoreapp1.1\notDivisible.deps.json
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\bin\Debug\netcoreapp1.1\notDivisible.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\bin\Debug\netcoreapp1.1\notDivisible.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\bin\Debug\netcoreapp1.1\notDivisible.dll
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\bin\Debug\netcoreapp1.1\notDivisible.pdb
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\obj\Debug\netcoreapp1.1\notDivisible.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\obj\Debug\netcoreapp1.1\notDivisible.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\obj\Debug\netcoreapp1.1\notDivisible.dll
+C:\Users\Khaled\source\CSharp-21\notDivisible\notDivisible\obj\Debug\netcoreapp1.1\notDivisible.pdb

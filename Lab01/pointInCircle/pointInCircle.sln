@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pointInCircle", "pointInCircle\pointInCircle.csproj", "{B5C8A58B-969D-4267-AFF5-E75B021DD15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C8A58B-969D-4267-AFF5-E75B021DD15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C8A58B-969D-4267-AFF5-E75B021DD15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C8A58B-969D-4267-AFF5-E75B021DD15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C8A58B-969D-4267-AFF5-E75B021DD15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFA9F9C-50E3-495F-A732-F7309F8D0174}
+	EndGlobalSection
+EndGlobal

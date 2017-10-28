@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\bin\Debug\netcoreapp1.1\reverseString.deps.json
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\bin\Debug\netcoreapp1.1\reverseString.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\bin\Debug\netcoreapp1.1\reverseString.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\bin\Debug\netcoreapp1.1\reverseString.dll
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\bin\Debug\netcoreapp1.1\reverseString.pdb
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\obj\Debug\netcoreapp1.1\reverseString.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\obj\Debug\netcoreapp1.1\reverseString.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\obj\Debug\netcoreapp1.1\reverseString.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\obj\Debug\netcoreapp1.1\reverseString.dll
+C:\Users\Khaled\source\CSharp-21\Lab02\reverseString\reverseString\obj\Debug\netcoreapp1.1\reverseString.pdb

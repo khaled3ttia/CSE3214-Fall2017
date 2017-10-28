@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\bin\Debug\netcoreapp1.1\pointInCircle.deps.json
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\bin\Debug\netcoreapp1.1\pointInCircle.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\bin\Debug\netcoreapp1.1\pointInCircle.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\bin\Debug\netcoreapp1.1\pointInCircle.dll
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\bin\Debug\netcoreapp1.1\pointInCircle.pdb
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\obj\Debug\netcoreapp1.1\pointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\obj\Debug\netcoreapp1.1\pointInCircle.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\obj\Debug\netcoreapp1.1\pointInCircle.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\obj\Debug\netcoreapp1.1\pointInCircle.dll
+C:\Users\Khaled\source\CSharp-21\pointInCircle\pointInCircle\obj\Debug\netcoreapp1.1\pointInCircle.pdb

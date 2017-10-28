@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\bin\Debug\netcoreapp1.1\individualDigits.deps.json
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\bin\Debug\netcoreapp1.1\individualDigits.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\bin\Debug\netcoreapp1.1\individualDigits.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\bin\Debug\netcoreapp1.1\individualDigits.dll
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\bin\Debug\netcoreapp1.1\individualDigits.pdb
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\obj\Debug\netcoreapp1.1\individualDigits.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\obj\Debug\netcoreapp1.1\individualDigits.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\obj\Debug\netcoreapp1.1\individualDigits.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\obj\Debug\netcoreapp1.1\individualDigits.dll
+C:\Users\Khaled\source\CSharp-21\individualDigits\individualDigits\obj\Debug\netcoreapp1.1\individualDigits.pdb
