@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\bin\Debug\netcoreapp1.1\charOrder.deps.json
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\bin\Debug\netcoreapp1.1\charOrder.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\bin\Debug\netcoreapp1.1\charOrder.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\bin\Debug\netcoreapp1.1\charOrder.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\bin\Debug\netcoreapp1.1\charOrder.pdb
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\obj\Debug\netcoreapp1.1\charOrder.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\obj\Debug\netcoreapp1.1\charOrder.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\obj\Debug\netcoreapp1.1\charOrder.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\obj\Debug\netcoreapp1.1\charOrder.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\charOrder\charOrder\obj\Debug\netcoreapp1.1\charOrder.pdb
