@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\bin\Debug\netcoreapp1.1\biggestofthree.deps.json
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\bin\Debug\netcoreapp1.1\biggestofthree.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\bin\Debug\netcoreapp1.1\biggestofthree.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\bin\Debug\netcoreapp1.1\biggestofthree.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\bin\Debug\netcoreapp1.1\biggestofthree.pdb
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\obj\Debug\netcoreapp1.1\biggestofthree.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\obj\Debug\netcoreapp1.1\biggestofthree.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\obj\Debug\netcoreapp1.1\biggestofthree.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\biggestofthree\biggestofthree\obj\Debug\netcoreapp1.1\biggestofthree.pdb
