@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\bin\Debug\netcoreapp1.1\avgParams.deps.json
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\bin\Debug\netcoreapp1.1\avgParams.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\bin\Debug\netcoreapp1.1\avgParams.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\bin\Debug\netcoreapp1.1\avgParams.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\bin\Debug\netcoreapp1.1\avgParams.pdb
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\obj\Debug\netcoreapp1.1\avgParams.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\obj\Debug\netcoreapp1.1\avgParams.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\obj\Debug\netcoreapp1.1\avgParams.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\obj\Debug\netcoreapp1.1\avgParams.dll
+C:\Users\Khaled\source\CSharp-21\Lab03\avgParams\avgParams\obj\Debug\netcoreapp1.1\avgParams.pdb
