@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\bin\Debug\netcoreapp1.1\studentsOOP.deps.json
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\bin\Debug\netcoreapp1.1\studentsOOP.runtimeconfig.json
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\bin\Debug\netcoreapp1.1\studentsOOP.runtimeconfig.dev.json
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\bin\Debug\netcoreapp1.1\studentsOOP.dll
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\bin\Debug\netcoreapp1.1\studentsOOP.pdb
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\obj\Debug\netcoreapp1.1\studentsOOP.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\obj\Debug\netcoreapp1.1\studentsOOP.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\obj\Debug\netcoreapp1.1\studentsOOP.AssemblyInfo.cs
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\obj\Debug\netcoreapp1.1\studentsOOP.dll
+C:\Users\Khaled\source\CSharp-21\Lab04\studentsOOP\studentsOOP\obj\Debug\netcoreapp1.1\studentsOOP.pdb
